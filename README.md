@@ -28,6 +28,19 @@ Create a new Jekyll site at `./myblog`.
 jekyll new myblog
 ```
 
+## Add Plugins
+
+### Jalali date plugin for Jekyll
+
+https://github.com/mehdisadeghi/jekyll-jalali
+
+```console
+gem install jekyll-jalali
+```
+## Modify the Theme
+
+https://github.com/jekyll/minima
+
 ## Building the blog
 
 Build the site and make it available on a local server.
